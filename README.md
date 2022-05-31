@@ -1,4 +1,5 @@
 # DIO_Github
-Desafio de primeiro projeto Github/Github
+
+Repositório criado para o desafio de primeiro projeto Github/Github
 
 
